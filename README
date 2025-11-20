@@ -1,0 +1,14 @@
+Trabalho de Econometria I — IE/UFRJ
+Grupo: (nomes dos integrantes)
+Professor: Vitor Pereira
+Semestre: 2025.02
+
+Descrição:
+Este repositório contém o código utilizado para o Trabalho de Econometria I.
+A estrutura segue o padrão solicitado pelo professor:
+
+- code: scripts R organizados por função e ordem de execução
+- input: bases de dados originais (não modificadas)
+- tmp: arquivos intermediários gerados durante o processamento
+- output: resultados finais (tabelas, gráficos, bases finais)
+- misc: arquivos diversos
